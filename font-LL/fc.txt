@@ -1,0 +1,6 @@
+﻿[FontConfig "Japanese"]
+fontlib "../datas/fonts_ch.swf"
+map "$normal" = "zhengda" Bold
+map "$bold" = "zhengda" Bold
+map "$header" = "zhengda" Bold
+map "$IMECandidateListFont" = "zhengda" Bold
